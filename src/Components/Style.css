@@ -1,0 +1,14 @@
+.style {
+    display: inline-block;
+    border-radius: 2em;
+    background-color: rgb(34, 151, 34);
+    color: #fff;
+    text-align: center;
+    width: 5%;
+    font-size: 16px;
+  }
+
+  .style:hover{
+      background-color: aqua;
+      color: black;
+  }
