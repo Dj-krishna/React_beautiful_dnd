@@ -12,3 +12,13 @@
       background-color: aqua;
       color: black;
   }
+
+  .header{
+    color: #fff;
+    background-color: royalblue;
+    font-size: 30px;
+  }
+
+  .droppable{
+      margin-left: 5%;
+  }
